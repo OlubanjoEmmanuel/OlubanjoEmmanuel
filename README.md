@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @OlubanjoEmmanuel
-- 👀 I’m interested in full-stack development
-- 🌱 I’m currently learning javascript
-- 💞️ I’m looking to collaborate on open source projects
-- 📫 How to reach me ...
+- 👋 Hi, I’m @Olubanjo
+- 👀 I’m a Product and UX Designer
+- 🌱 I basically play around with AI tools
+- 💞️ I’m looking to build cool stuffs
+- 📫 Check me out on X, Kolapo_Olubanjo
 - 😄 Pronouns: HE
 - ⚡ Fun fact: Ready to Learn
 
